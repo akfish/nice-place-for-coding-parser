@@ -25,7 +25,7 @@ A valid file should contain at least one place entry. Each place entry should be
 >
 > from @name_of_recommender
 >
-> ```
+> \```
 
 Note:
 
